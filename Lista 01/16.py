@@ -5,8 +5,8 @@
 # 3 - l_saida = []
 # 4 - N = len(lnomes)
 # 5 - iterar range(N) com k
-# 6 - verificar se pe está em lnomes[k]
-# 6.1 - se pe está em lnomes[k], então l_saida.append(lnomes[k])
+# 6 - verificar se pr está em lnomes[k]
+# 6.1 - se pr está em lnomes[k], então l_saida.append(lnomes[k])
 # 7 - exibir l_saida
 # --------- Fim ------------
 def qt_16(lnomes,pr):
