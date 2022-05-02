@@ -1,3 +1,13 @@
+# ---  Pseudocodigo ---
+# --------- INICIO----------
+# 1 - receber a referencia r
+# 2 - receber a lista ls
+# 3 - qtd = []
+# 4 - iterar ls com x
+# 5 - verificar se x >= r
+# 5.1 - se x >= r, então qtd.append(x)
+# 6 - exibir qtd
+# --------- Fim ------------
 def qt_11(r,ls):
   qtd = []
   for x in ls:
